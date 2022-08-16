@@ -2717,3 +2717,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:nett
 2022-08-16 16:25:19,102 [Worker-10: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-16 16:25:19,102 [Worker-10: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-08-16 16:25:19,102 [Worker-10: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ApiGateway\src\test\resources
+2022-08-17 08:22:31,054 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
