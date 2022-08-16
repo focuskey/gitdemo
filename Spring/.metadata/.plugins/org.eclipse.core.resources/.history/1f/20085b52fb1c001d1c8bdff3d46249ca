@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.estore.ProductsService.command;
+
+public class CreateProductCommand {
+
+}

@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.estore.ProductsService.core.events;
+
+public class ProductCreatedEvent {
+
+}
