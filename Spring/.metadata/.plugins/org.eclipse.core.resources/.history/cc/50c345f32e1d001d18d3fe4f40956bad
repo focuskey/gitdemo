@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.estore.ProductsService.query.rest;
+
+public class ProductsQueryController {
+
+}
