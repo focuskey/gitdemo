@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.estore.ProductsService.command.interceptors;
+
+public class CreateProductCommandInterceptor {
+
+}
