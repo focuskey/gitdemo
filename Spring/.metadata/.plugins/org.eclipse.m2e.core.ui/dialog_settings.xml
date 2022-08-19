@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\wei\160822\gitdemo\Spring\core"/>
 			<item value="C:\wei\160822\gitdemo\Spring\OrdersService"/>
 			<item value="C:\code\Udemy\ProductsService\ProductsService"/>
 		</list>

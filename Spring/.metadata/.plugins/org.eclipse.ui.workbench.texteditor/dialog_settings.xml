@@ -8,6 +8,9 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="reserve"/>
+			<item value="core"/>
+			<item value="spring-framework"/>
 			<item value="lomo"/>
 		</list>
 		<list key="replacehistory">

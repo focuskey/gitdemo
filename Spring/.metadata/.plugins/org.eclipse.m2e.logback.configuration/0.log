@@ -3652,3 +3652,987 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.axonframe
 2022-08-17 17:07:30,984 [Worker-196: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-17 17:07:30,984 [Worker-196: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-08-17 17:07:30,984 [Worker-196: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ApiGateway\src\test\resources
+2022-08-18 08:20:52,722 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-18 09:38:02,778 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-18 09:38:03,341 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-18 09:38:03,341 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 09:38:03,343 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 09:38:03,345 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-18 09:38:03,575 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-08-18 09:38:03,577 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 09:38:03,707 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-18 09:38:03,910 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-18 09:38:03,910 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 09:38:03,910 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 09:38:03,911 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-18 09:38:04,058 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-18 09:44:19,817 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 09:44:19,931 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-18 09:44:20,428 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-18 09:44:20,428 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 09:44:20,429 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 09:44:20,429 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-18 09:44:20,834 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-08-18 09:44:22,578 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/30.1.1-android/guava-30.1.1-android-sources.jar
+2022-08-18 09:44:23,816 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/30.1.1-android/guava-30.1.1-android-sources.jar
+2022-08-18 09:44:23,891 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:30.1.1-android
+2022-08-18 09:44:24,580 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5-sources.jar
+2022-08-18 09:44:24,915 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5-sources.jar
+2022-08-18 09:44:24,942 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-compat-qual:2.5.5
+2022-08-18 09:44:25,648 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.19/xstream-1.4.19-sources.jar
+2022-08-18 09:44:26,551 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.19/xstream-1.4.19-sources.jar
+2022-08-18 09:44:26,581 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.19
+2022-08-18 09:49:03,477 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 09:49:03,666 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-18 09:49:04,056 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-18 09:49:04,056 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 09:49:04,056 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 09:49:04,056 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-18 09:49:04,372 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-18 09:59:31,913 [Worker-40: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 10:03:53,248 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 10:03:53,301 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:03:53,590 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-18 10:03:53,779 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-18 10:03:53,969 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 10:03:53,985 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-18 10:03:54,024 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-18 10:03:54,070 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-18 10:03:55,311 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:03:55,354 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-18 10:03:55,354 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 10:03:55,354 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 10:03:55,355 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-18 10:03:55,511 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:03:55,513 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-18 10:03:55,513 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 10:03:55,513 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 10:03:55,514 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-18 10:03:55,623 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:03:55,624 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-18 10:03:55,624 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 10:03:55,624 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 10:03:55,624 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-18 10:03:55,772 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:03:55,774 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-18 10:03:55,774 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 10:03:55,774 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 10:03:55,774 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-18 10:03:55,965 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:03:55,967 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-18 10:03:55,967 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 10:03:55,967 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 10:03:55,967 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-18 10:03:56,371 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-08-18 10:13:26,983 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 10:13:27,029 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:13:27,329 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-18 10:13:27,507 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-18 10:13:27,663 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 10:13:27,676 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-18 10:13:27,711 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-18 10:13:27,749 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-18 10:13:28,939 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:13:28,978 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-18 10:13:28,978 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 10:13:28,979 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 10:13:28,979 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-18 10:13:29,137 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:13:29,138 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-18 10:13:29,138 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 10:13:29,138 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 10:13:29,138 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-18 10:13:29,241 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:13:29,243 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-18 10:13:29,243 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 10:13:29,243 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 10:13:29,243 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-18 10:13:29,385 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:13:29,386 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-18 10:13:29,387 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 10:13:29,387 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 10:13:29,387 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-18 10:13:29,574 [Worker-40: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:13:29,576 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-18 10:13:29,576 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 10:13:29,576 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 10:13:29,576 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-18 10:13:29,926 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-08-18 10:35:55,340 [Worker-44: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 10:39:39,207 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 10:39:39,220 [Worker-48: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:39:39,296 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-18 10:39:39,471 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 10:39:39,706 [Worker-48: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 10:39:39,708 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-18 10:39:39,708 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 10:39:39,708 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 10:39:39,708 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-18 10:39:39,968 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-18 11:24:18,979 [Worker-51: Launching DiscoveryServer - DiscoveryServerApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:24:18,990 [Worker-51: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:24:18,990 [Worker-51: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:24:18,994 [Worker-51: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 11:24:19,005 [Worker-51: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 11:24:19,006 [Worker-51: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:24:19,007 [Worker-51: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:24:19,007 [Worker-51: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\DiscoveryServer\src\test\resources
+2022-08-18 11:24:40,162 [Worker-62: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 11:24:43,655 [Worker-64: Launching ProductsService - ProductsServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:24:43,657 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:24:43,657 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:24:43,657 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 11:24:43,658 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 11:24:43,660 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:24:43,660 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:24:43,660 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\core\src\test\resources
+2022-08-18 11:24:43,821 [Worker-64: Launching ProductsService - ProductsServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:24:43,823 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:24:43,823 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:24:43,823 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 11:24:43,825 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 11:24:43,826 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:24:43,826 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:24:43,826 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-18 11:24:43,981 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:24:44,114 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:24:44,248 [Worker-64: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:25:03,189 [Worker-62: Launching OrdersService - OrdersServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:25:03,191 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:25:03,191 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:25:03,191 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 11:25:03,192 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 11:25:03,193 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:25:03,193 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:25:03,193 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-18 11:25:03,348 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:25:03,480 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:25:03,609 [Worker-62: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:26:39,789 [Worker-66: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:26:39,936 [Worker-66: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:26:40,068 [Worker-66: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:27:36,409 [Worker-64: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:27:36,540 [Worker-64: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:27:36,671 [Worker-64: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:28:35,971 [Worker-65: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:28:36,103 [Worker-65: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:28:36,234 [Worker-65: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:32:53,476 [Worker-69: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 11:32:53,491 [Worker-69: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:32:53,555 [Worker-69: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-18 11:32:53,726 [Worker-69: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 11:32:54,004 [Worker-69: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:32:54,007 [Worker-69: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-18 11:32:54,007 [Worker-69: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 11:32:54,007 [Worker-69: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 11:32:54,007 [Worker-69: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-18 11:32:54,304 [Worker-69: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-18 11:33:03,058 [Worker-63: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 11:33:06,155 [Worker-74: Launching OrdersService - OrdersServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:33:06,157 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:33:06,157 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:33:06,157 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 11:33:06,158 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 11:33:06,159 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:33:06,159 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:33:06,159 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-18 11:33:06,320 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:33:06,453 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:33:06,584 [Worker-74: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:33:34,260 [Worker-73: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:33:34,388 [Worker-73: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:33:34,515 [Worker-73: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:39:56,520 [Worker-72: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:39:56,647 [Worker-72: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:39:56,776 [Worker-72: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:41:17,902 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 11:41:17,956 [Worker-78: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:41:18,223 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-18 11:41:18,408 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-18 11:41:18,537 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 11:41:18,550 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-18 11:41:18,582 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-18 11:41:18,618 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-18 11:41:18,681 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 11:41:19,682 [Worker-78: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:41:19,723 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-18 11:41:19,724 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 11:41:19,724 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 11:41:19,724 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-18 11:41:19,872 [Worker-78: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:41:19,874 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-18 11:41:19,874 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 11:41:19,874 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 11:41:19,874 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-18 11:41:19,977 [Worker-78: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:41:19,978 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-18 11:41:19,978 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 11:41:19,978 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 11:41:19,978 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-18 11:41:20,124 [Worker-78: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:41:20,125 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-18 11:41:20,125 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 11:41:20,125 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 11:41:20,126 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-18 11:41:20,319 [Worker-78: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:41:20,321 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-18 11:41:20,321 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 11:41:20,321 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 11:41:20,321 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-18 11:41:20,702 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-08-18 11:41:25,361 [Worker-85: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 11:41:28,933 [Worker-79: Launching OrdersService - OrdersServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:41:28,940 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:41:28,940 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:41:28,940 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 11:41:28,948 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 11:41:28,949 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:41:28,949 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:41:28,949 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\core\src\test\resources
+2022-08-18 11:41:29,136 [Worker-79: Launching OrdersService - OrdersServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 11:41:29,138 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:41:29,138 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:41:29,138 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 11:41:29,139 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 11:41:29,140 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 11:41:29,140 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 11:41:29,140 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-18 11:41:29,397 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:41:29,527 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:41:29,653 [Worker-79: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:47:51,307 [Worker-84: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:47:51,437 [Worker-84: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 11:47:51,570 [Worker-84: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:19:22,002 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 12:19:22,053 [Worker-92: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:22,300 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-18 12:19:22,456 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-18 12:19:22,556 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 12:19:22,568 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-18 12:19:22,599 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-18 12:19:22,631 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-18 12:19:22,644 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 12:19:23,858 [Worker-92: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:23,900 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-18 12:19:23,900 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 12:19:23,900 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 12:19:23,900 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-18 12:19:24,057 [Worker-92: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:24,058 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-18 12:19:24,058 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 12:19:24,058 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-18 12:19:24,058 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-18 12:19:24,164 [Worker-92: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:24,165 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-18 12:19:24,165 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 12:19:24,165 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 12:19:24,165 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-18 12:19:24,309 [Worker-92: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:24,310 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-18 12:19:24,310 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 12:19:24,310 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 12:19:24,310 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-18 12:19:24,500 [Worker-92: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:24,502 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-18 12:19:24,503 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 12:19:24,503 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 12:19:24,503 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-18 12:19:24,861 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-08-18 12:19:32,035 [Worker-100: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 12:19:37,807 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 12:19:37,820 [Worker-92: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:37,875 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-18 12:19:38,013 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 12:19:38,215 [Worker-92: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:38,216 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-18 12:19:38,216 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 12:19:38,217 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-18 12:19:38,217 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-18 12:19:38,466 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-18 12:19:44,372 [Worker-102: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 12:19:48,348 [Worker-95: Launching OrdersService - OrdersServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:48,354 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:19:48,354 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:19:48,354 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 12:19:48,361 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 12:19:48,362 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:19:48,362 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:19:48,362 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\core\src\test\resources
+2022-08-18 12:19:48,521 [Worker-95: Launching OrdersService - OrdersServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:19:48,523 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:19:48,523 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:19:48,523 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 12:19:48,524 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 12:19:48,525 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:19:48,525 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:19:48,525 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-18 12:19:48,669 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:19:48,797 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:19:48,923 [Worker-95: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:27:49,772 [Worker-103: Launching ApiGateway - ApiGatewayApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:27:49,774 [Worker-103: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:27:49,774 [Worker-103: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:27:49,774 [Worker-103: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 12:27:49,777 [Worker-103: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 12:27:49,778 [Worker-103: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:27:49,778 [Worker-103: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:27:49,778 [Worker-103: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ApiGateway\src\test\resources
+2022-08-18 12:51:45,780 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 12:51:45,784 [Worker-59: Launching ProductsService - ProductsServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:51:45,786 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:51:45,786 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:51:45,786 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 12:51:45,787 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 12:51:45,787 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:51:45,787 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:51:45,788 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-18 12:51:45,931 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:51:46,064 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:51:46,193 [Worker-59: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:52:51,176 [Worker-117: Launching DiscoveryServer - DiscoveryServerApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:52:51,178 [Worker-117: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:52:51,178 [Worker-117: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:52:51,178 [Worker-117: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 12:52:51,179 [Worker-117: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 12:52:51,179 [Worker-117: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:52:51,179 [Worker-117: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:52:51,179 [Worker-117: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\DiscoveryServer\src\test\resources
+2022-08-18 12:57:02,306 [Worker-123: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 12:57:02,316 [Worker-123: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:57:02,374 [Worker-123: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-18 12:57:02,635 [Worker-123: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:57:02,637 [Worker-123: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-18 12:57:02,637 [Worker-123: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 12:57:02,637 [Worker-123: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-18 12:57:02,637 [Worker-123: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-18 12:57:03,039 [Worker-123: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-18 12:57:04,768 [Worker-123: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3-sources.jar
+2022-08-18 12:57:05,674 [Worker-123: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3-sources.jar
+2022-08-18 12:57:05,732 [Worker-123: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.ben-manes.caffeine:caffeine:2.9.3
+2022-08-18 12:57:06,445 [Worker-123: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.19.0/checker-qual-3.19.0-sources.jar
+2022-08-18 12:57:07,183 [Worker-123: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.19.0/checker-qual-3.19.0-sources.jar
+2022-08-18 12:57:07,223 [Worker-123: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.19.0
+2022-08-18 12:57:07,895 [Worker-123: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0-sources.jar
+2022-08-18 12:57:08,240 [Worker-123: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0-sources.jar
+2022-08-18 12:57:08,262 [Worker-123: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.10.0
+2022-08-18 12:57:38,004 [Worker-120: Launching DiscoveryServer - DiscoveryServerApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 12:57:38,006 [Worker-120: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:57:38,006 [Worker-120: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:57:38,006 [Worker-120: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 12:57:38,007 [Worker-120: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 12:57:38,007 [Worker-120: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 12:57:38,007 [Worker-120: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 12:57:38,007 [Worker-120: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\DiscoveryServer\src\test\resources
+2022-08-18 12:58:13,784 [Worker-121: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:58:13,916 [Worker-121: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 12:58:14,050 [Worker-121: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 13:05:12,893 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 13:05:12,909 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 13:05:12,965 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-18 13:05:13,120 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 13:05:13,358 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 13:05:13,360 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-18 13:05:13,360 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 13:05:13,360 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-18 13:05:13,360 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-18 13:05:13,840 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-18 13:05:14,566 [Worker-131: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-18 13:05:15,329 [Worker-131: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.8/caffeine-2.8.8-sources.jar
+2022-08-18 13:05:16,312 [Worker-131: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.8/caffeine-2.8.8-sources.jar
+2022-08-18 13:05:16,349 [Worker-131: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.ben-manes.caffeine:caffeine:2.8.8
+2022-08-18 13:05:23,515 [Worker-129: Launching ProductsService - ProductsServiceApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 13:05:23,516 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 13:05:23,516 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 13:05:23,517 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 13:05:23,518 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 13:05:23,518 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 13:05:23,519 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 13:05:23,519 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-18 13:05:23,666 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 13:05:23,797 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 13:05:23,927 [Worker-129: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 13:06:06,611 [Worker-125: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 13:06:06,757 [Worker-125: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 13:06:06,886 [Worker-125: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 13:09:08,454 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-18 13:09:08,464 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 13:09:08,530 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-18 13:09:08,795 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 13:09:08,797 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-18 13:09:08,797 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 13:09:08,797 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-18 13:09:08,797 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-18 13:09:08,986 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-18 13:09:16,588 [Worker-132: Launching ApiGateway - ApiGatewayApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 13:09:16,645 [Worker-132: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-18 13:09:16,909 [Worker-132: Launching ApiGateway - ApiGatewayApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 13:09:16,910 [Worker-132: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 13:09:16,910 [Worker-132: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 13:09:16,910 [Worker-132: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 13:09:16,911 [Worker-132: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 13:09:16,912 [Worker-132: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 13:09:16,912 [Worker-132: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 13:09:16,912 [Worker-132: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ApiGateway\src\test\resources
+2022-08-18 14:17:49,688 [Worker-154: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 14:17:49,827 [Worker-154: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 14:17:49,964 [Worker-154: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 14:18:24,546 [Worker-157: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 14:18:24,678 [Worker-157: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 14:18:24,814 [Worker-157: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-18 14:18:46,320 [Worker-154: Launching ApiGateway - ApiGatewayApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-08-18 14:18:46,324 [Worker-154: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 14:18:46,324 [Worker-154: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 14:18:46,325 [Worker-154: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-18 14:18:46,327 [Worker-154: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-18 14:18:46,327 [Worker-154: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-18 14:18:46,327 [Worker-154: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-18 14:18:46,327 [Worker-154: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ApiGateway\src\test\resources
+2022-08-19 08:18:56,431 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-19 09:18:48,835 [Worker-23: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 09:18:54,139 [Worker-30: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 09:18:54,274 [Worker-30: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 09:18:54,410 [Worker-30: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 10:06:35,902 [Worker-30: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 10:06:41,534 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 10:06:41,534 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 10:06:41,536 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 10:06:41,547 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 10:06:41,549 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 10:06:41,549 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 10:06:41,549 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-19 10:06:41,979 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 10:06:42,112 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 10:06:42,247 [Worker-24: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 11:04:03,045 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-19 11:04:03,476 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-19 11:04:03,770 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 11:04:04,941 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-core/maven-metadata.xml
+2022-08-19 11:04:05,280 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-core/maven-metadata.xml
+2022-08-19 11:04:05,453 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-api/maven-metadata.xml
+2022-08-19 11:04:05,638 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-api/maven-metadata.xml
+2022-08-19 11:04:05,701 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:04:05,718 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-19 11:04:05,758 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-19 11:04:05,802 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-19 11:04:05,820 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:04:06,856 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-19 11:04:06,857 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-19 11:04:06,857 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-19 11:04:06,857 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-19 11:04:07,044 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-19 11:04:07,045 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 11:04:07,045 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 11:04:07,045 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-19 11:04:07,161 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-19 11:04:07,161 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-19 11:04:07,162 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-19 11:04:07,162 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-19 11:04:07,561 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-19 11:04:07,561 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-19 11:04:07,562 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-19 11:04:07,564 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-19 11:04:08,128 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:04:08,162 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-19 11:04:08,163 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-19 11:04:08,163 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-19 11:04:08,163 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-19 11:04:08,705 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2022-08-19 11:04:08,819 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.9.2/caffeine-2.9.2-sources.jar
+2022-08-19 11:04:09,897 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.9.2/caffeine-2.9.2-sources.jar
+2022-08-19 11:04:09,945 [Worker-53: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.ben-manes.caffeine:caffeine:2.9.2
+2022-08-19 11:29:42,402 [Worker-73: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 11:29:42,550 [Worker-73: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.appsdeveloperblog.estore:core:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2022-08-19 11:29:42,670 [Worker-73: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-19 11:29:44,316 [Worker-69: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.appsdeveloperblog.estore:core:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2022-08-19 11:29:44,351 [Worker-69: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.appsdeveloperblog.estore:core:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-08-19 11:29:44,534 [Worker-69: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.appsdeveloperblog.estore:core:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2022-08-19 11:29:44,579 [Worker-69: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.appsdeveloperblog.estore:core:jar:javadoc:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-08-19 11:30:48,063 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-19 11:30:48,820 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-starter/4.5/axon-spring-boot-starter-4.5.pom
+2022-08-19 11:30:49,141 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-starter/4.5/axon-spring-boot-starter-4.5.pom
+2022-08-19 11:30:49,384 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-autoconfigure/4.5/axon-spring-boot-autoconfigure-4.5.pom
+2022-08-19 11:30:49,627 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-autoconfigure/4.5/axon-spring-boot-autoconfigure-4.5.pom
+2022-08-19 11:30:49,800 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-spring/4.5/axon-spring-4.5.pom
+2022-08-19 11:30:50,053 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring/4.5/axon-spring-4.5.pom
+2022-08-19 11:30:50,293 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-configuration/4.5/axon-configuration-4.5.pom
+2022-08-19 11:30:50,563 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-configuration/4.5/axon-configuration-4.5.pom
+2022-08-19 11:30:50,805 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-eventsourcing/4.5/axon-eventsourcing-4.5.pom
+2022-08-19 11:30:51,084 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-eventsourcing/4.5/axon-eventsourcing-4.5.pom
+2022-08-19 11:30:51,264 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-modelling/4.5/axon-modelling-4.5.pom
+2022-08-19 11:30:51,511 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-modelling/4.5/axon-modelling-4.5.pom
+2022-08-19 11:30:51,753 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-disruptor/4.5/axon-disruptor-4.5.pom
+2022-08-19 11:30:52,003 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-disruptor/4.5/axon-disruptor-4.5.pom
+2022-08-19 11:30:52,176 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-server-connector/4.5/axon-server-connector-4.5.pom
+2022-08-19 11:30:52,417 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-server-connector/4.5/axon-server-connector-4.5.pom
+2022-08-19 11:30:52,750 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-autoconfigure/4.5/axon-spring-boot-autoconfigure-4.5.jar
+2022-08-19 11:30:52,927 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-spring/4.5/axon-spring-4.5.jar
+2022-08-19 11:30:52,933 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-starter/4.5/axon-spring-boot-starter-4.5.jar
+2022-08-19 11:30:52,933 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-configuration/4.5/axon-configuration-4.5.jar
+2022-08-19 11:30:52,933 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-server-connector/4.5/axon-server-connector-4.5.jar
+2022-08-19 11:30:53,259 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-autoconfigure/4.5/axon-spring-boot-autoconfigure-4.5.jar
+2022-08-19 11:30:53,308 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-starter/4.5/axon-spring-boot-starter-4.5.jar
+2022-08-19 11:30:53,423 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-configuration/4.5/axon-configuration-4.5.jar
+2022-08-19 11:30:53,497 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-disruptor/4.5/axon-disruptor-4.5.jar
+2022-08-19 11:30:53,511 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring/4.5/axon-spring-4.5.jar
+2022-08-19 11:30:53,542 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-eventsourcing/4.5/axon-eventsourcing-4.5.jar
+2022-08-19 11:30:53,585 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-server-connector/4.5/axon-server-connector-4.5.jar
+2022-08-19 11:30:53,661 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-modelling/4.5/axon-modelling-4.5.jar
+2022-08-19 11:30:53,736 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar
+2022-08-19 11:30:54,014 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-disruptor/4.5/axon-disruptor-4.5.jar
+2022-08-19 11:30:54,014 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-eventsourcing/4.5/axon-eventsourcing-4.5.jar
+2022-08-19 11:30:54,014 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-modelling/4.5/axon-modelling-4.5.jar
+2022-08-19 11:30:54,190 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar
+2022-08-19 11:30:54,498 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 11:30:54,653 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:30:54,719 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-19 11:30:54,735 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:30:54,867 [Worker-74: Importing Maven projects] ERROR o.e.m2e.jdt.internal.ModuleSupport - core does not exist
+org.eclipse.jdt.core.JavaModelException: core does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3916)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:214)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:205)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.configureClasspath(ModuleSupport.java:134)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configureClasspath(AbstractJavaProjectConfigurator.java:896)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:68)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:248)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:372)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:354)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:380)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:208)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:196)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:806)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:972)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:305)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:269)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$0(ProjectConfigurationManager.java:178)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:148)
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob$1.doCreateMavenProjects(ImportMavenProjectsJob.java:70)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:76)
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob.runInWorkspace(ImportMavenProjectsJob.java:79)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-08-19 11:30:55,112 [Worker-74: Importing Maven projects] ERROR o.e.m2e.jdt.internal.ModuleSupport - core does not exist
+org.eclipse.jdt.core.JavaModelException: core does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3916)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:214)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:205)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.configureClasspath(ModuleSupport.java:134)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configureClasspath(AbstractJavaProjectConfigurator.java:896)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:68)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:248)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:372)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:354)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:380)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:208)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:196)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:806)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:972)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:305)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:269)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$0(ProjectConfigurationManager.java:178)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:148)
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob$1.doCreateMavenProjects(ImportMavenProjectsJob.java:70)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:76)
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob.runInWorkspace(ImportMavenProjectsJob.java:79)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-08-19 11:30:55,262 [Worker-74: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-19 11:30:55,262 [Worker-74: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 11:30:55,264 [Worker-74: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 11:30:55,264 [Worker-74: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-19 11:30:55,552 [Worker-74: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2022-08-19 11:30:56,812 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-starter/4.5/axon-spring-boot-starter-4.5-sources.jar
+2022-08-19 11:30:56,813 [Worker-74: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.axonframework:axon-spring-boot-starter:4.5
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.axonframework:axon-spring-boot-starter:jar:sources:4.5
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-08-19 11:30:57,537 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-autoconfigure/4.5/axon-spring-boot-autoconfigure-4.5-sources.jar
+2022-08-19 11:30:57,806 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring-boot-autoconfigure/4.5/axon-spring-boot-autoconfigure-4.5-sources.jar
+2022-08-19 11:30:57,841 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.axonframework:axon-spring-boot-autoconfigure:4.5
+2022-08-19 11:30:58,569 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-server-connector/4.5/axon-server-connector-4.5-sources.jar
+2022-08-19 11:30:59,077 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-server-connector/4.5/axon-server-connector-4.5-sources.jar
+2022-08-19 11:30:59,103 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.axonframework:axon-server-connector:4.5
+2022-08-19 11:30:59,849 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/axoniq/axonserver-connector-java/4.5/axonserver-connector-java-4.5-sources.jar
+2022-08-19 11:31:00,644 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/axoniq/axonserver-connector-java/4.5/axonserver-connector-java-4.5-sources.jar
+2022-08-19 11:31:00,767 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.axoniq:axonserver-connector-java:4.5
+2022-08-19 11:31:01,517 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf/1.36.1/grpc-protobuf-1.36.1-sources.jar
+2022-08-19 11:31:01,851 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf/1.36.1/grpc-protobuf-1.36.1-sources.jar
+2022-08-19 11:31:01,885 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-protobuf:1.36.1
+2022-08-19 11:31:02,557 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.36.1/grpc-api-1.36.1-sources.jar
+2022-08-19 11:31:03,125 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.36.1/grpc-api-1.36.1-sources.jar
+2022-08-19 11:31:03,156 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-api:1.36.1
+2022-08-19 11:31:03,895 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.36.1/grpc-context-1.36.1-sources.jar
+2022-08-19 11:31:04,231 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.36.1/grpc-context-1.36.1-sources.jar
+2022-08-19 11:31:04,265 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-context:1.36.1
+2022-08-19 11:31:04,930 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf-lite/1.36.1/grpc-protobuf-lite-1.36.1-sources.jar
+2022-08-19 11:31:05,261 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf-lite/1.36.1/grpc-protobuf-lite-1.36.1-sources.jar
+2022-08-19 11:31:05,297 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-protobuf-lite:1.36.1
+2022-08-19 11:31:06,048 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/30.0-android/guava-30.0-android-sources.jar
+2022-08-19 11:31:07,247 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/30.0-android/guava-30.0-android-sources.jar
+2022-08-19 11:31:07,306 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:30.0-android
+2022-08-19 11:31:07,971 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0-sources.jar
+2022-08-19 11:31:08,310 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0-sources.jar
+2022-08-19 11:31:08,331 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.4.0
+2022-08-19 11:31:09,042 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-stub/1.36.1/grpc-stub-1.36.1-sources.jar
+2022-08-19 11:31:09,413 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-stub/1.36.1/grpc-stub-1.36.1-sources.jar
+2022-08-19 11:31:09,458 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-stub:1.36.1
+2022-08-19 11:31:10,126 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-netty/1.36.1/grpc-netty-1.36.1-sources.jar
+2022-08-19 11:31:10,693 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-netty/1.36.1/grpc-netty-1.36.1-sources.jar
+2022-08-19 11:31:10,715 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-netty:1.36.1
+2022-08-19 11:31:11,463 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.36.1/grpc-core-1.36.1-sources.jar
+2022-08-19 11:31:12,194 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.36.1/grpc-core-1.36.1-sources.jar
+2022-08-19 11:31:12,229 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-core:1.36.1
+2022-08-19 11:31:12,968 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-spring/4.5/axon-spring-4.5-sources.jar
+2022-08-19 11:31:13,345 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-spring/4.5/axon-spring-4.5-sources.jar
+2022-08-19 11:31:13,368 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.axonframework:axon-spring:4.5
+2022-08-19 11:31:14,087 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-configuration/4.5/axon-configuration-4.5-sources.jar
+2022-08-19 11:31:14,494 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-configuration/4.5/axon-configuration-4.5-sources.jar
+2022-08-19 11:31:14,516 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.axonframework:axon-configuration:4.5
+2022-08-19 11:31:15,261 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-disruptor/4.5/axon-disruptor-4.5-sources.jar
+2022-08-19 11:31:15,600 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-disruptor/4.5/axon-disruptor-4.5-sources.jar
+2022-08-19 11:31:15,633 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.axonframework:axon-disruptor:4.5
+2022-08-19 11:31:16,378 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-eventsourcing/4.5/axon-eventsourcing-4.5-sources.jar
+2022-08-19 11:31:16,976 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-eventsourcing/4.5/axon-eventsourcing-4.5-sources.jar
+2022-08-19 11:31:17,005 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.axonframework:axon-eventsourcing:4.5
+2022-08-19 11:31:17,759 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-modelling/4.5/axon-modelling-4.5-sources.jar
+2022-08-19 11:31:18,376 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-modelling/4.5/axon-modelling-4.5-sources.jar
+2022-08-19 11:31:18,427 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.axonframework:axon-modelling:4.5
+2022-08-19 11:31:19,116 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/axonframework/axon-messaging/4.5/axon-messaging-4.5-sources.jar
+2022-08-19 11:31:20,148 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/axonframework/axon-messaging/4.5/axon-messaging-4.5-sources.jar
+2022-08-19 11:31:20,174 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.axonframework:axon-messaging:4.5
+2022-08-19 11:31:20,833 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16-sources.jar
+2022-08-19 11:31:21,540 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16-sources.jar
+2022-08-19 11:31:21,562 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.16
+2022-08-19 11:31:22,230 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.1/mxparser-1.2.1-sources.jar
+2022-08-19 11:31:22,552 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.1/mxparser-1.2.1-sources.jar
+2022-08-19 11:31:22,585 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.x-stream:mxparser:1.2.1
+2022-08-19 11:33:17,622 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-19 11:33:17,925 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-19 11:33:18,094 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 11:33:18,222 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:33:18,236 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-19 11:33:18,292 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-19 11:33:18,325 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-19 11:33:18,340 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:33:18,353 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 11:33:18,368 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:33:19,627 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-19 11:33:19,627 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-19 11:33:19,627 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-19 11:33:19,627 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-19 11:33:19,783 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-19 11:33:19,783 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 11:33:19,783 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 11:33:19,783 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-19 11:33:19,893 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-19 11:33:19,894 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-19 11:33:19,894 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-19 11:33:19,894 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-19 11:33:20,046 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-19 11:33:20,046 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-19 11:33:20,046 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-19 11:33:20,046 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-19 11:33:20,284 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-19 11:33:20,284 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-19 11:33:20,284 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-19 11:33:20,284 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-19 11:33:20,663 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-08-19 11:36:36,710 [Worker-90: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:36:50,445 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-19 11:36:50,716 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-19 11:36:50,891 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 11:36:51,005 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:36:51,017 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-19 11:36:51,048 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-19 11:36:51,080 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-19 11:36:51,093 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:36:52,176 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-19 11:36:52,176 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-19 11:36:52,176 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-19 11:36:52,176 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-19 11:36:52,326 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-19 11:36:52,326 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 11:36:52,326 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 11:36:52,326 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-19 11:36:52,429 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-19 11:36:52,429 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-19 11:36:52,429 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-19 11:36:52,429 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-19 11:36:52,573 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-19 11:36:52,573 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-19 11:36:52,573 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-19 11:36:52,573 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-19 11:36:52,758 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-19 11:36:52,758 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-19 11:36:52,759 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-19 11:36:52,759 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-19 11:36:53,173 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-08-19 11:39:42,199 [Worker-104: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:39:42,199 [Worker-104: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:39:42,200 [Worker-104: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 11:39:42,208 [Worker-104: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 11:39:42,209 [Worker-104: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:39:42,209 [Worker-104: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:39:42,209 [Worker-104: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\DiscoveryServer\src\test\resources
+2022-08-19 11:39:58,594 [Worker-95: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:40:04,966 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:40:04,966 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:40:04,967 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 11:40:04,967 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 11:40:04,968 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:40:04,968 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:40:04,968 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\core\src\test\resources
+2022-08-19 11:40:05,196 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:40:05,196 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:40:05,196 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 11:40:05,198 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 11:40:05,199 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:40:05,199 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:40:05,199 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-19 11:40:05,353 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 11:40:05,483 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 11:40:05,610 [Worker-91: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 11:40:19,939 [Worker-92: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 11:40:23,318 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:40:23,319 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:40:23,319 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 11:40:23,321 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 11:40:23,322 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:40:23,323 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:40:23,323 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-19 11:40:23,470 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 11:40:23,604 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 11:40:23,733 [Worker-93: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 11:40:55,925 [Worker-105: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:40:55,925 [Worker-105: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:40:55,925 [Worker-105: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 11:40:55,928 [Worker-105: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 11:40:55,928 [Worker-105: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 11:40:55,928 [Worker-105: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 11:40:55,928 [Worker-105: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ApiGateway\src\test\resources
+2022-08-19 12:23:35,558 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-19 12:23:35,886 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:DiscoveryServer:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\DiscoveryServer\pom.xml.
+2022-08-19 12:23:36,062 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 12:23:36,174 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 12:23:36,186 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-19 12:23:36,222 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ApiGateway\pom.xml.
+2022-08-19 12:23:36,259 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-19 12:23:36,273 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 12:23:37,185 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2022-08-19 12:23:37,185 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-19 12:23:37,185 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2022-08-19 12:23:37,185 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2022-08-19 12:23:37,335 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-19 12:23:37,335 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 12:23:37,335 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 12:23:37,335 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-19 12:23:37,437 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/main/java
+2022-08-19 12:23:37,437 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-19 12:23:37,437 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscoveryServer/src/main/resources
+2022-08-19 12:23:37,437 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DiscoveryServer/src/test/java
+2022-08-19 12:23:37,581 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/main/java
+2022-08-19 12:23:37,581 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-19 12:23:37,581 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrdersService/src/main/resources
+2022-08-19 12:23:37,582 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrdersService/src/test/java
+2022-08-19 12:23:37,766 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/main/java
+2022-08-19 12:23:37,766 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-19 12:23:37,766 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductsService/src/main/resources
+2022-08-19 12:23:37,767 [Worker-124: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductsService/src/test/java
+2022-08-19 12:23:38,171 [Worker-124: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-08-19 12:25:40,948 [Worker-131: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 12:25:41,066 [Worker-131: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.appsdeveloperblog.estore:core:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2022-08-19 12:25:41,154 [Worker-131: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-19 12:26:26,414 [Worker-125: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\core\pom.xml.
+2022-08-19 12:26:26,541 [Worker-125: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:OrdersService:0.0.1-SNAPSHOT @ C:\wei\160822\gitdemo\Spring\OrdersService\pom.xml.
+2022-08-19 12:26:26,658 [Worker-125: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 12:26:26,712 [Worker-125: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appsdeveloperblog.estore:ProductsService:0.0.1-SNAPSHOT @ C:\Users\php3\git\gitdemo\ProductsService\pom.xml.
+2022-08-19 12:26:26,725 [Worker-125: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 12:26:27,342 [Worker-125: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2022-08-19 12:26:27,342 [Worker-125: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 12:26:27,342 [Worker-125: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /core/src/main/resources
+2022-08-19 12:26:27,342 [Worker-125: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2022-08-19 12:26:27,458 [Worker-125: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-08-19 12:27:16,500 [Worker-127: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:27:16,500 [Worker-127: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:27:16,500 [Worker-127: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 12:27:16,507 [Worker-127: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 12:27:16,508 [Worker-127: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:27:16,508 [Worker-127: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:27:16,509 [Worker-127: Launching DiscoveryServer - DiscoveryServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\DiscoveryServer\src\test\resources
+2022-08-19 12:27:24,214 [Worker-148: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 12:27:31,911 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:27:31,911 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:27:31,911 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 12:27:31,912 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 12:27:31,913 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:27:31,913 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:27:31,913 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\core\src\test\resources
+2022-08-19 12:27:32,042 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:27:32,042 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:27:32,042 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 12:27:32,043 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 12:27:32,044 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:27:32,044 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:27:32,044 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-19 12:27:32,199 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:27:32,329 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:27:32,458 [Worker-131: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:27:49,744 [Worker-132: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2022-08-19 12:28:00,441 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:28:00,441 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:28:00,441 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 12:28:00,442 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 12:28:00,443 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:28:00,443 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:28:00,443 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-19 12:28:00,591 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:28:00,723 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:28:00,855 [Worker-129: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:28:16,296 [Worker-129: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:28:16,296 [Worker-129: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:28:16,296 [Worker-129: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 12:28:16,297 [Worker-129: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 12:28:16,298 [Worker-129: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:28:16,298 [Worker-129: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:28:16,298 [Worker-129: Launching ApiGateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ApiGateway\src\test\resources
+2022-08-19 12:36:45,144 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:36:45,144 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:36:45,146 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 12:36:45,151 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 12:36:45,152 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 12:36:45,152 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 12:36:45,152 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-19 12:36:45,320 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:36:45,456 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:36:45,584 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:38:04,947 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:38:05,078 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 12:38:05,213 [Worker-119: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:01,686 [Worker-162: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:01,813 [Worker-162: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:01,941 [Worker-162: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:09,639 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:05:09,640 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:05:09,640 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 13:05:09,645 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 13:05:09,646 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:05:09,646 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:05:09,646 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-19 13:05:09,793 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:09,982 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:10,112 [Worker-168: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:49,255 [Worker-165: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:49,385 [Worker-165: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:05:49,513 [Worker-165: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:08:59,541 [Worker-171: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:08:59,691 [Worker-171: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:08:59,820 [Worker-171: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:11:33,828 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:11:33,828 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:11:33,828 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 13:11:33,832 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 13:11:33,834 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:11:33,834 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:11:33,834 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-19 13:11:33,973 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:11:34,102 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:11:34,229 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:12:59,123 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:12:59,123 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:12:59,123 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 13:12:59,127 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 13:12:59,128 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:12:59,128 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:12:59,128 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-19 13:12:59,261 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:12:59,393 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:12:59,521 [Worker-161: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:13:12,577 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:13:12,577 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:13:12,577 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 13:13:12,581 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 13:13:12,582 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:13:12,582 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:13:12,582 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\wei\160822\gitdemo\Spring\OrdersService\src\test\resources
+2022-08-19 13:13:12,717 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:13:12,851 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:13:12,981 [Worker-163: Launching OrdersService - OrdersServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:44:42,229 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:44:42,229 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:44:42,229 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-19 13:44:42,234 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-19 13:44:42,234 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-19 13:44:42,234 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-19 13:44:42,235 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\php3\git\gitdemo\ProductsService\src\test\resources
+2022-08-19 13:44:42,375 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:44:42,512 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2022-08-19 13:44:42,643 [Worker-176: Launching ProductsService - ProductsServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: com.appsdeveloperblog.estore:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
