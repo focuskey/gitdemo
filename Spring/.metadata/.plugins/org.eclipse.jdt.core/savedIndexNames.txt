@@ -91,13 +91,11 @@ INDEX VERSION 1.131+C:\wei\160822\gitdemo\Spring\.metadata\.plugins\org.eclipse.
 769293170.index
 3938668638.index
 3314037227.index
-659824578.index
 2320420036.index
 856303771.index
 3939953206.index
 3716414501.index
 2081932144.index
-3963072896.index
 3920728822.index
 2251538970.index
 2591097520.index
@@ -112,7 +110,6 @@ INDEX VERSION 1.131+C:\wei\160822\gitdemo\Spring\.metadata\.plugins\org.eclipse.
 546857506.index
 2077807836.index
 2130678454.index
-1896386436.index
 33693944.index
 201298378.index
 1323455515.index
@@ -234,7 +231,6 @@ INDEX VERSION 1.131+C:\wei\160822\gitdemo\Spring\.metadata\.plugins\org.eclipse.
 2469045736.index
 3126699856.index
 1825365819.index
-2577010412.index
 3928211869.index
 984243070.index
 2353822538.index
@@ -330,7 +326,6 @@ INDEX VERSION 1.131+C:\wei\160822\gitdemo\Spring\.metadata\.plugins\org.eclipse.
 2029768041.index
 3452538610.index
 2687979252.index
-292802889.index
 1429210904.index
 1405144543.index
 1217314166.index
