@@ -8,6 +8,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="axon"/>
 			<item value="reserve"/>
 			<item value="core"/>
 			<item value="spring-framework"/>
